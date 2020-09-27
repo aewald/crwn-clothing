@@ -24,3 +24,6 @@ yarn-error.log*
 
 # firebase
 firebase.config.js
+
+# stripe
+publishableKey.js
